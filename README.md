@@ -19,8 +19,8 @@ A hands-on project for practicing data analysis and visualization using Excel.
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-📧 [anandkgzb3@gmail.com]  
-💼 [LinkedIn Profile Link]  
-📁 [Portfolio / GitHub Link]
+**Anand Kumar**  
+📧 anandkgzb3@gmail.com  
+💼 LinkedIn Profile Link  
+📁 Portfolio / GitHub Link
 
