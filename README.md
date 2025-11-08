@@ -17,7 +17,7 @@ This project showcases an interactive sales analytics dashboard built in Microso
 ## Purpose
 A hands-on project for practicing data analysis and visualization using Excel.
 
-## 👨‍💻 Author
+## Author
 
 **Anand Kumar**  
 📧 anandkgzb3@gmail.com  
