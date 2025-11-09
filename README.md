@@ -21,6 +21,5 @@ A hands-on project for practicing data analysis and visualization using Excel.
 
 **Anand Kumar**  
 📧 anandkgzb3@gmail.com  
-💼 LinkedIn Profile Link  
-📁 Portfolio / GitHub Link
+💼 https://www.linkedin.com/in/anand-kumar-201106297/ 
 
